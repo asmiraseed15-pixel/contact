@@ -35,19 +35,19 @@ The project demonstrates important Python programming concepts such as:
 
 ## Project Structure
 
-```text
+
 contact_management_system/
 │
-├── data/
+ data/
 │   └── contacts.json
 │
-├── main.py
-├── contacts.py
-├── file_handler.py
-├── validators.py
-├── exceptions.py
-├── README.md
-└── .gitignore
+1. main.py 
+2.contacts.py
+3. file_handler.py
+4.validators.py
+5. exceptions.py
+6. README.md
+7. .gitignore
 
----
+
 
