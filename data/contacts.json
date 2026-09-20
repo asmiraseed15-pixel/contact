@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Afzal Akram",
+        "phone": "82204 18021",
+        "email": "akram@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "AsmiAkram",
+        "phone": "7603834812",
+        "email": "asmiakram@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Raseed",
+        "phone": "9715817500",
+        "email": "raseed@gmail.com"
+    }
+]
